@@ -1,0 +1,1 @@
+# effector-testing-example
